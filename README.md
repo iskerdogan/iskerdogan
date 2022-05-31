@@ -1,8 +1,7 @@
 ### Reach Out To Me
 
 [<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/gitlab.svg" align="left" />][gitlab]
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/codeforces.svg" align="left" />][codeforces]
+
 
 <br />
 <br />
@@ -25,10 +24,6 @@
 <br />
 <br />
 
-<details>
-<summary>:bulb: Github Stats</summary>
-<img src"https://github-readme-stats.vercel.app/api?username=iskerdogan&theme=radical">
-</details>
 
 
 
