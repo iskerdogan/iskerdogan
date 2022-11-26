@@ -6,13 +6,6 @@
 <br />
 <br />
 
-### I'm learning to develop mobile games 
-
-<br />
-
-### I'm currently learning new design patterns and game architecture
-<br />
-
 ### Tech I Use
 
 
